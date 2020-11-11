@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Statusfy//f4ncymoon.github.io//calendar//scheduled//EN
+NAME:test
+X-WR-CALNAME:test
+TIMEZONE-ID:UTC
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
