@@ -2,7 +2,7 @@ title: test
 name: test
 description: noo
 defaultLocale: en
-baseUrl: "https://hlv.github.freewheel.tv"
+baseUrl: "https://f4ncymoon.github.io"
 locales:
   - code: en
     iso: en-US
