@@ -1,0 +1,11 @@
+title: test
+name: test
+description: noo
+defaultLocale: en
+baseUrl: "https://hlv.github.freewheel.tv"
+locales:
+  - code: en
+    iso: en-US
+    name: English
+content:
+  frontMatterFormat: yaml
